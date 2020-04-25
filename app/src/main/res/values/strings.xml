@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookShelf</string>
+    <string name="search_error_message">No results matched your search</string>
+    <string name="form_search_button">Search</string>
+    <string name="button">Button</string>
+    <string name="name_or_author">Name or Author</string>
+    <string name="pausebutton">pauseButton</string>
+    <string name="nothing">nothing</string>
+</resources>
